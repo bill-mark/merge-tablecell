@@ -1,6 +1,6 @@
 {
   "name": "merge-tablecell",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a plugin to merge table-cell",
   "main": "index.js",
   "scripts": {
