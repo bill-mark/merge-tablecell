@@ -1,0 +1,23 @@
+{
+  "name": "merge-tablecell",
+  "version": "1.0.0",
+  "description": "a plugin to merge table-cell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bill-mark/merge-tablecell.git"
+  },
+  "keywords": [
+    "merge",
+    "table-cell"
+  ],
+  "author": "bill.mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bill-mark/merge-tablecell/issues"
+  },
+  "homepage": "https://github.com/bill-mark/merge-tablecell#readme"
+}
