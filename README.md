@@ -7,10 +7,10 @@
 用法:
 1. npm install merge-tablecell --save
 
-2. import merge_tablecell from 'merge-tablecell'
+2. import mergetables from 'merge-tablecell'
 
 
-3. merge_tablecell.merge_tablecel(id,beginColumn,beginRow)
+3. mergetables(id,beginColumn,beginRow)
    如果你用的是mvvm框架,要在DOM更新后调用该插件,比如VUE中要在updated里调用
    参数依次是:表id,合并第几列,开会行(一般是1,因为0是表头)
    
@@ -23,8 +23,8 @@ Usage:
 
 1. NPM install merge-tablecell --save
 
-2. import merge_tablecell from'merge-tablecell'
+2. import mergetables from'merge-tablecell'
 
-3. merge_tablecell.merge_tablecel (ID, beginColumn, beginRow)
+3. mergetables(ID, beginColumn, beginRow)
 If you use the MVVM framework, call the plug-in after updating DOM, such as calling in updated in VUE.
 The parameters are as follows: table ID, merging columns, and meeting rows (usually 1, since 0 is the header).
